@@ -1,4 +1,4 @@
-package Framework;
+package core;
 
 public interface Instrument {
 
