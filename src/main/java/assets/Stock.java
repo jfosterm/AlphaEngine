@@ -1,6 +1,6 @@
-package StockEngine;
+package assets;
 
-import Framework.Instrument;
+import core.Instrument;
 
 public class Stock implements Instrument {
     private final String ticker;
